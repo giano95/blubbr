@@ -1,4 +1,7 @@
-# blubbr
+# Blubbr
+
+You can see the submission of this project to the ETHGlobal Hackaton at this ![link](https://ethglobal.com/showcase/blubbr-g6s3w)
+
 ![blubbui](https://user-images.githubusercontent.com/86300766/191803348-412224dc-d870-4656-a4ad-42f482d981ca.png)
 
 ![Screen Shot 2022-09-25 at 2 29 11 PM](https://user-images.githubusercontent.com/86300766/192159384-1d05db66-3f87-4fc6-b0f2-bb7f1928e9e7.png)
